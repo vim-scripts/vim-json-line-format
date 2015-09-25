@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5250
+
+打开文件，以normal方式在需要查看的行上按<leader>jp快捷键即可在底部打印它格式化后的样子，使用<leader>jw快捷键直接将其修改为格式化后的json
+
+非正确json格式无法格式化
+
+https://github.com/axiaoxin/vim-json-line-format
